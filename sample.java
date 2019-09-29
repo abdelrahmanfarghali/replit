@@ -1,4 +1,4 @@
-public class readme
+public class sample
 {
   public static void main(String[] args)
   {
