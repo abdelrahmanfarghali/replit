@@ -1,4 +1,4 @@
-public class Main {
+public class switches {
   public static void main(String[] args) {
     int intelligence = 81;
     switch (intelligence) {
